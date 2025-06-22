@@ -1,4 +1,4 @@
-# CSI_assignment_2_Kyphosis_dataset
+# CSI_assignment_3_Kyphosis_dataset
 
 **Project Overview** 
 
@@ -34,8 +34,6 @@ The Kyphosis dataset contains information on patients who underwent spinal surge
 
 
 4.Analyzed the distribution of the target variable (Kyphosis).
-
-![Uploading image.png…]()
 
 
 # Model Training and Evaluation:
